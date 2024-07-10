@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="Project Furnishings" />
         <p className="description">
           Website coming <code> soon </code>
-     "contact 01482 373737 for any info"
+       contact 01482 373737
         </p>
       </main>
 
