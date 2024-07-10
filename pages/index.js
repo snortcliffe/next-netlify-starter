@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Project Furniture test" />
+        <Header title="Project Furnishings" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Website coming <code> soon </code>
         </p>
       </main>
 
