@@ -14,8 +14,7 @@ export default function Home() {
         <Header title="Project Furnishings" />
         <p className="description">
           Website coming <code> soon </code>
-    UNIT1, KINGSWOOD BUSINESS PARK, CONNAUGHT ROAD, KINGSWOOD
-              HULL, HU73AP, 01482 373737
+    01482 373737
         </p>
       </main>
 
