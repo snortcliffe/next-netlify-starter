@@ -11,7 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-![](https://github.com/snortcliffe/next-netlify-starter/blob/main/project%20holding%20page.jpg)
+        <Header title="Project Furnishings" />
+        <p className="description">
+             <code> website coming soon, contact 01482 373737  </code>
+               </p>
       </main>
 
       <Footer />
